@@ -19,6 +19,6 @@ public class Hawk extends Bird{
 
     @Override
     public String birdInfo() {
-        return "Эта птица может лететь с максимальной скоростью:  " + flySpeed;
+        return "Ястреб может лететь с максимальной скоростью:  " + flySpeed;
     }
 }
