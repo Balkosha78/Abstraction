@@ -19,6 +19,6 @@ public class Eagle extends Bird{
 
     @Override
     public String birdInfo() {
-        return "Эта птица может лететь с максимальной скоростью:  " + flySpeed;
+        return "Орел может лететь с максимальной скоростью:  " + flySpeed;
     }
 }
